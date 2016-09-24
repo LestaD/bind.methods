@@ -1,6 +1,6 @@
 {
   "name": "bind.methods",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Bind selected class methods from constructor",
   "main": "index.js",
   "scripts": {
