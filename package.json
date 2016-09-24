@@ -1,0 +1,24 @@
+{
+  "name": "bind.methods",
+  "version": "0.0.0",
+  "description": "Bind selected class methods from constructor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lestad/bind.methods.git"
+  },
+  "keywords": [
+    "bind",
+    "class",
+    "methods"
+  ],
+  "author": "Sergey Sova <i.am@lestad.net> (https://lestad.top)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lestad/bind.methods/issues"
+  },
+  "homepage": "https://github.com/lestad/bind.methods#readme"
+}
